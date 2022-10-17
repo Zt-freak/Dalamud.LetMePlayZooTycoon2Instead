@@ -1,0 +1,11 @@
+{
+    "Author": "Apodemus",
+    "Name": "Let me play Zoo Tycoon 2 instead",
+    "Punchline": "Start up Zoo Tycoon 2 when you die outside of duty.",
+    "Description": "Start up Zoo Tycoon 2 when you die outside of duty.",
+    "InternalName": "letMePlayZT2Instead",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "zootycoon2"
+    ]
+}

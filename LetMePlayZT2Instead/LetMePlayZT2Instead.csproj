@@ -4,9 +4,9 @@
     <Authors></Authors>
     <Company></Company>
     <Version>0.0.0.1</Version>
-    <Description>A sample plugin.</Description>
+    <Description>Start up Zoo Tycoon 2 when you die outside of duty.</Description>
     <Copyright></Copyright>
-    <PackageProjectUrl>https://github.com/goatcorp/SamplePlugin</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Zt-freak/Dalamud.LetMePlayZooTycoon2Instead</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup>
